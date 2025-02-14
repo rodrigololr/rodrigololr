@@ -1,4 +1,4 @@
-## 🦊 Bem-vindo ao meu GitHub!  
+## Bem-vindo ao meu GitHub!  
 
 👋 Olá, eu sou o Rodrigo!  
 💻 Estudante de Ciência da Computação na Universidade Federal de Alagoas    

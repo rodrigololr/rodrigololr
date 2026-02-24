@@ -26,10 +26,9 @@ I am a 5th-period Computer Science student at the **Federal University of Alagoa
 
 ### 📊 Stats & Activity:
 
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigololr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigololr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigololr&show_icons=true&theme=tokyonight)](https://github.com/rodrigololr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigololr&layout=compact&theme=tokyonight)](https://github.com/rodrigololr)>
 
 ---
 

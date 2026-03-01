@@ -34,6 +34,3 @@ I am a 5th-period Computer Science student at the **Federal University of Alagoa
 ### 📬 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arodrigolima/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/a.rodrigolima_/) 
-
----
-*“The unexamined life is not worth living.”* 🏛️

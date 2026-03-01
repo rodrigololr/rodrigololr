@@ -9,7 +9,7 @@ I am a 5th-period Computer Science student at the **Federal University of Alagoa
 ### 🛠️ What I'm currently focused on:
 - 🌐 **Fullstack Development:** Building high-performance web applications using the Next.js ecosystem.
 - 🔌 **API Integration & Design:** Extensive experience developing and consuming RESTful APIs, focusing on clean architecture and performance.
-- ☁️ **Cloud & Infrastructure:** Managing environments and deploying applications using DigitalOcean and Linux-based systems.
+- ☁️ **Cloud & Infrastructure:** Managing environments and deploying applications using DigitalOcean, Oracle Cloud (OCI)and Linux-based systems.
 
 ---
 
@@ -26,9 +26,8 @@ I am a 5th-period Computer Science student at the **Federal University of Alagoa
 
 ### 📊 Stats & Activity:
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigololr&show_icons=true&theme=tokyonight)](https://github.com/rodrigololr)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigololr&layout=compact&theme=tokyonight)](https://github.com/rodrigololr)>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0D1117" />
 
 ---
 

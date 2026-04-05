@@ -1,15 +1,15 @@
 # Hi, I'm Rodrigo! 👋 
 
-### 🚀 Computer Science Student @ UFAL | Python & Fullstack Developer
+### 🚀 AI Engineer & Computer Science Student @ UFAL
 
-I am a 5th-period Computer Science student at the **Federal University of Alagoas (UFAL)**. I focus on building robust applications, designing scalable APIs, and exploring modern web technologies.
+I am a 5th-period Computer Science student at the **Federal University of Alagoas (UFAL)**, passionate about the intersection of software engineering and Artificial Intelligence. I focus on building intelligent applications, designing data-driven APIs, and automating complex workflows.
 
 ---
 
 ### 🛠️ What I'm currently focused on:
-- 🌐 **Fullstack Development:** Building high-performance web applications using the Next.js ecosystem.
-- 🔌 **API Integration & Design:** Extensive experience developing and consuming RESTful APIs, focusing on clean architecture and performance.
-- ☁️ **Cloud & Infrastructure:** Managing environments and deploying applications using DigitalOcean, Oracle Cloud (OCI)and Linux-based systems.
+- 🤖 **AI Implementation:** Developing and deploying Machine Learning models and integrating LLMs into production-ready environments.
+- 🔌 **Intelligent APIs:** Designing scalable backend architectures with FastAPI to serve AI models and handle complex data processing.
+- ☁️ **MLOps & Infrastructure:** Managing cloud environments (OCI, DigitalOcean) to host automated systems and data pipelines.
 
 ---
 
